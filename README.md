@@ -1,54 +1,74 @@
 
-Ex04 Simple Calculator - React Project
-Date:25/11/2026
-Name :Akash A
-Reg No :212225230008
-##AIM
+## Ex04 Simple Calculator - React Project
+
+## Date:25/11/2026
+
+## Name :Akash A
+
+## Reg No :212225230008
+
+
+## AIM
+
 To develop a Simple Calculator using React.js with clean and responsive design, ensuring a smooth user experience across different screen sizes.
 
-##ALGORITHM
-STEP 1
+## ALGORITHM
+
+# STEP 1
+
 Create a React App.
 
-STEP 2
+# STEP 2
+
 Open a terminal and run:
 
 npx create-react-app simple-calculator
 cd simple-calculator
 npm start
-STEP 3
+
+# STEP 3
+
 Inside the src/ folder, create a new file Calculator.js and define the basic structure.
 
-STEP 4
+# STEP 4
+
 Plan the UI: Display screen, number buttons (0-9), operators (+, -, *, /), clear (C), and equal (=).
 
-STEP 5
+# STEP 5
+
 Create a new file Calculator.css in src/ and add the styling.
 
-STEP 6
+# STEP 6
+
 Open src/App.js and modify it.
 
-STEP 7
+# STEP 7
+
 Start the development server. npm start
 
-STEP 8
+# STEP 8
+
 Open http://localhost:3000/ in the browser.
 
-STEP 9
+# STEP 9
+
 Test the calculator by entering numbers and operations.
 
-STEP 10
+# STEP 10
+
 Fix styling issues and refine content placement.
 
-STEP 11
+# STEP 11
+
 Deploy the website.
 
-STEP 12
+# STEP 12
+
 Upload to GitHub Pages for free hosting.
 
-##PROGRAM
+## PROGRAM
 
-#css
+# css
 ```
 * {
   margin: 0;
@@ -139,7 +159,7 @@ body {
   background-color: #c02b2b;
 }
 ```
-#jsx
+# jsx
 ```
 
 
@@ -228,10 +248,12 @@ function App() {
 export default App;
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![alt text](<Screenshot 2026-11-25 135031-1.png>)
 
 ![alt text](<Screenshot 2026-11-25 135057.png>)
-##RESULT
+
+## RESULT
+
 The program for developing a simple calculator in React.js is executed successfully.
